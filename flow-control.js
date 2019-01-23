@@ -8,7 +8,7 @@ function teenager(age) {
   if (age < 13 || age > 19) {
     return "You are not a teenager"
   }
-  else
+  elsif(age >= 13 && age <= 19){
   {""
 }
 
