@@ -9,6 +9,7 @@ function teenager(age) {
     return "You are not a teenager"
   }
   else
+  {""
 }
 
 function teenager(age) {
